@@ -1,6 +1,3 @@
-# p2-iproject-server
-Individual Project server site
-
 <div align="Center">
 <h1> p2-iproject-server</h1>
 <h2> Individual Project server site </h2>
