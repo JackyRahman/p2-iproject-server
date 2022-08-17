@@ -74,7 +74,7 @@ module.exports = {
         updatedAt: new Date()
       },
       {
-        BarberShopId: 14,
+        BarberShopId: 4,
         name: 'Sutisna',
         status: 'active',
         createdAt: new Date(),
